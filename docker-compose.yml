@@ -1,0 +1,10 @@
+version: '3.7' # specify docker-compose version
+
+# Define the services/containers to be run
+services:
+  micro-angular-root:
+    hostname: localhost
+    #container_name: angular-app
+    build: .
+    ports:
+      - 8181:80
