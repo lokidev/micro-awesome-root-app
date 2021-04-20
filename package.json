@@ -19,7 +19,7 @@
     "@angular/platform-browser": "~11.2.5",
     "@angular/platform-browser-dynamic": "~11.2.5",
     "@angular/router": "~11.2.5",
-    "@lokidev/tech-lib": "^0.0.2",
+    "@lokidev/tech-lib": "^0.0.3",
     "@ngrx/core": "^1.2.0",
     "@ngrx/effects": "^11.0.1",
     "@ngrx/store": "^11.0.1",
