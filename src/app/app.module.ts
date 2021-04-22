@@ -12,6 +12,7 @@ import { NavBarModule } from './components/nav-bar/nav-bar.module';
 import { ReadMeModule } from './components/read-me/read-me.module';
 import { TerminalCommandModule } from './components/read-me/terminal-command/terminal-command.module';
 import { MyStoreModule } from './components/store/store.module';
+import { LibMyLibModule } from '@lokidev/tech-lib';
 
 @NgModule({
   declarations: [
@@ -31,6 +32,7 @@ import { MyStoreModule } from './components/store/store.module';
       maxAge: 25, // Retains last 25 states
       logOnly: environment.production, // Restrict extension to log-only mode
     }),
+    LibMyLibModule
   ],
   providers: [],
   bootstrap: [AppComponent]
