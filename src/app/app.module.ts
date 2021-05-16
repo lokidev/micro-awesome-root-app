@@ -12,9 +12,9 @@ import { NavBarModule } from './components/nav-bar/nav-bar.module';
 import { ReadMeModule } from './components/read-me/read-me.module';
 import { TerminalCommandModule } from './components/read-me/terminal-command/terminal-command.module';
 import { MyStoreModule } from './components/store/store.module';
-import { LibTechLibModule } from '@lokidev/tech-lib';
 import { LibPersonLibModule } from '@lokidev/person-lib';
 import { LibCompanyLibModule } from '@lokidev/company-lib';
+import { LibTechLibModule } from '@lokidev/tech-lib';
 
 @NgModule({
   declarations: [

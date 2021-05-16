@@ -21,7 +21,7 @@
     "@angular/router": "~11.2.12",
     "@lokidev/company-lib": "^0.0.3",
     "@lokidev/person-lib": "^0.0.2",
-    "@lokidev/tech-lib": "^0.0.8",
+    "@lokidev/tech-lib": "^0.0.10",
     "@ngrx/core": "^1.2.0",
     "@ngrx/effects": "^11.0.1",
     "@ngrx/store": "^11.0.1",
