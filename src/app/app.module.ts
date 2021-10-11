@@ -41,4 +41,5 @@ import { LibTechLibModule } from '@lokidev/tech-lib';
   providers: [],
   bootstrap: [AppComponent]
 })
+
 export class AppModule { }
